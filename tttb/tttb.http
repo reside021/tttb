@@ -1,0 +1,6 @@
+@tttb_HostAddress = http://localhost:5229
+
+GET {{tttb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
